@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696445069833",
+    "firebase_url": "https://fir-test-46ee3.firebaseio.com",
+    "project_id": "fir-test-46ee3",
+    "storage_bucket": "fir-test-46ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696445069833:android:ea4ad6f35ef341d5ca66d8",
+        "android_client_info": {
+          "package_name": "com.ryan.beginnerAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696445069833-qmmoehbroun1em8hsrutcgllhjr2vsfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKfNhJ_1NAOlB7ejf-0pkLHySDQf_DDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696445069833-qmmoehbroun1em8hsrutcgllhjr2vsfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
